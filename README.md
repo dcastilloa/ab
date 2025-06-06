@@ -17,6 +17,10 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+## Fun Fact 🧠
+
+Did you know that the first computer bug was literally a bug? In 1947, Admiral Grace Hopper found an actual moth stuck between the contacts of a Harvard Mark II computer relay. She taped the moth into her logbook and wrote "First actual case of bug being found." 🐛
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
