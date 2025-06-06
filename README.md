@@ -18,4 +18,6 @@ Feel free to start building something amazing here!
 
 ---
 
+**Last Updated:** December 2024 📅
+
 *Happy coding!* ✨
