@@ -10,6 +10,23 @@ A versatile project workspace designed for rapid development and experimentation
 
 Feel free to start building something amazing here!
 
+## Installation
+
+```bash
+# Clone the repository
+git clone <repository-url>
+
+# Navigate to the project directory
+cd ab
+
+# Install dependencies (if applicable)
+npm install
+# or
+pip install -r requirements.txt
+
+# Start developing!
+```
+
 ## Features
 
 - 🔧 Ready-to-use development environment
