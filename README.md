@@ -10,6 +10,20 @@ A versatile project workspace designed for rapid development and experimentation
 
 Feel free to start building something amazing here!
 
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/dcastilloa/ab.git
+
+# Navigate to the project directory
+cd ab
+
+# Install dependencies (if applicable)
+# npm install  # for Node.js projects
+# pip install -r requirements.txt  # for Python projects
+```
+
 ## Features
 
 - 🔧 Ready-to-use development environment
