@@ -1,6 +1,6 @@
 # ab
 
-Welcome to the ab project! 🚀
+Welcome to the awesome ab project! 🚀
 
 ## Description
 
