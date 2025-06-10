@@ -28,3 +28,5 @@ Feel free to start building something amazing here!
 🌟 **Star this repo if you find it useful!** 🌟
 
 🚀 **Made with ❤️ by developers, for developers** 🚀
+
+📢 **Found a bug? Have an idea? Open an issue and let's make it better together!** 📢
