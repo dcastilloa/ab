@@ -24,3 +24,5 @@ Feel free to start building something amazing here!
 *Happy coding!* ✨
 
 **Note:** This project is actively maintained and welcoming contributions! 💻
+
+🌟 **Star this repo if you find it useful!** 🌟
