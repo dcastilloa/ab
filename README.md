@@ -22,3 +22,5 @@ Feel free to start building something amazing here!
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
+
+**Note:** This project is actively maintained and welcoming contributions! 💻
