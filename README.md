@@ -17,6 +17,8 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+🦆 Fun fact: Rubber ducks debug better when they're yellow!
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
