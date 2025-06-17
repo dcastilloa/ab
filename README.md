@@ -6,6 +6,8 @@ Welcome to the ab project! 🚀
 
 A versatile project workspace designed for rapid development and experimentation. Built with flexibility and simplicity in mind.
 
+🐧 Fun fact: Did you know that penguins can dive up to 1,800 feet deep and hold their breath for over 20 minutes?
+
 ## Getting Started
 
 Feel free to start building something amazing here!
