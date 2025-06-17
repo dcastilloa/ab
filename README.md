@@ -21,4 +21,8 @@ Feel free to start building something amazing here!
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
+🐧 Fun fact: Penguins are amazing developers - they always work in groups and never give up!
+
+🐧 Did you know? Emperor penguins can dive deeper than 500 meters - just like how great code can solve the deepest problems!
+
 *Happy coding!* ✨
