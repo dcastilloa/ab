@@ -21,4 +21,6 @@ Feel free to start building something amazing here!
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
+🐧 Fun fact: This project is as resilient as penguins thriving in Antarctica!
+
 *Happy coding!* ✨
