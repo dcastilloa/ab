@@ -24,3 +24,5 @@ Feel free to start building something amazing here!
 *Happy coding!* ✨
 
 🐧 *Remember: Just like penguins work together in colonies, great code is built through collaboration!*
+
+🦕 *Be like a dinosaur - adapt or your code becomes extinct! Always keep evolving your skills.*
