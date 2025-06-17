@@ -21,4 +21,6 @@ Feel free to start building something amazing here!
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
+🐧 **Fun Fact:** Penguins are amazing swimmers that can reach speeds of up to 22 mph underwater!
+
 *Happy coding!* ✨
