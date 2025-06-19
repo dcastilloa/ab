@@ -17,6 +17,8 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+🐧 Fun fact: Did you know penguins are excellent swimmers and can dive up to 500 meters deep?
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
