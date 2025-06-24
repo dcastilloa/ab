@@ -17,6 +17,31 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+## Installation
+
+```bash
+npm install
+```
+
+## Usage
+
+```javascript
+const ab = require('ab');
+ab.start();
+```
+
+## Configuration
+
+Create a `config.json` file in the root directory to customize your settings.
+
+## Contributing
+
+We welcome contributions! Please fork the repository and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
