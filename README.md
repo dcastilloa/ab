@@ -21,4 +21,6 @@ Feel free to start building something amazing here!
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
+🐧 **Fun Fact:** Did you know penguins can jump up to 6 feet out of water? Just like this project can help you leap into your next great idea!
+
 *Happy coding!* ✨
