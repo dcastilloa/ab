@@ -4,7 +4,7 @@ Welcome to the ab project! 🚀
 
 ## Description
 
-A versatile project workspace designed for rapid development and experimentation. Built with flexibility and simplicity in mind.
+A versatile roject workspace designed for rapid development and experimentation. Built with flexibility and simplicity in mind.
 
 ## Getting Started
 
