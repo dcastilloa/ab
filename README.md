@@ -6,6 +6,8 @@ Welcome to the ab project! 🚀
 
 A versatile project workspace designed for rapid development and experimentation. Built with flexibility and simplicity in mind.
 
+Penguins are fascinating flightless birds that have adapted remarkably well to aquatic life. 🐧
+
 ## Getting Started
 
 Feel free to start building something amazing here!
