@@ -21,4 +21,6 @@ Feel free to start building something amazing here!
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
+Did you know? Penguins are the only birds that can swim but cannot fly! 🐧
+
 *Happy coding!* ✨
