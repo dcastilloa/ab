@@ -19,6 +19,8 @@ Feel free to start building something amazing here!
 
 ---
 
+🐧 **Fun Fact:** Penguins are amazing flightless birds that live in some of the coldest places on Earth!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
