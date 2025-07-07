@@ -17,6 +17,8 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+🐧 Fun fact: Penguins are excellent swimmers and can hold their breath for up to 20 minutes!
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
