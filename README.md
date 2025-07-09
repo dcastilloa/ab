@@ -21,6 +21,7 @@ Feel free to start building something amazing here!
 
 Did you know that penguins are excellent swimmers and can dive up to 500 meters deep? 🐧
 Emperor penguins can hold their breath for up to 20 minutes while hunting for fish!
+Penguins have a special gland that filters salt from seawater, allowing them to drink it safely.
 
 ---
 
