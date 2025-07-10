@@ -32,6 +32,7 @@ Penguins are fascinating flightless birds that live primarily in the Southern He
 - **Chinstrap Penguin**: Named for the distinctive black band under their head that resembles a chinstrap
 - **Gentoo Penguin**: The fastest underwater swimming penguin, reaching speeds up to 22 mph
 - **Rockhopper Penguin**: Known for their distinctive yellow and black crest feathers and hopping movement
+- **Macaroni Penguin**: The world's most numerous penguin species with distinctive golden-orange crest feathers
 
 ## Features
 
