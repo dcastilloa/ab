@@ -15,6 +15,7 @@ Feel free to start building something amazing here!
 Penguins are fascinating flightless birds that live primarily in the Southern Hemisphere. Here are some interesting facts about penguins:
 
 - **Species**: There are 18 species of penguins worldwide
+- **Habitat**: Most penguins live in Antarctica and sub-Antarctic regions
 - **Diet**: They primarily eat fish, squid, and krill
 - **Swimming**: Penguins can swim up to 22 mph (35 km/h)
 - **Social**: They are highly social animals that live in large colonies
