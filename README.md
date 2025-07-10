@@ -29,6 +29,8 @@ Penguins are fascinating flightless birds that live primarily in the Southern He
 - **Humboldt Penguin**: Found along the Pacific coast of South America
 - **Adelie Penguin**: One of the most common Antarctic penguin species
 - **King Penguin**: The second-largest penguin species with distinctive orange markings
+- **Chinstrap Penguin**: Named for the distinctive black band under their head that resembles a chinstrap
+- **Gentoo Penguin**: The fastest underwater swimming penguin, reaching speeds up to 22 mph
 
 ## Features
 
