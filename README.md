@@ -33,6 +33,7 @@ Penguins are fascinating flightless birds that live primarily in the Southern He
 - **Gentoo Penguin**: The fastest underwater swimming penguin, reaching speeds up to 22 mph
 - **Rockhopper Penguin**: Known for their distinctive yellow and black crest feathers and hopping movement
 - **Macaroni Penguin**: The world's most numerous penguin species with distinctive golden-orange crest feathers
+- **African Penguin**: Also known as the jackass penguin, found along the coastlines of South Africa and Namibia
 
 ## Features
 
