@@ -28,6 +28,7 @@ Penguins are fascinating flightless birds that live primarily in the Southern He
 - **Little Blue Penguin**: The smallest penguin species, also known as fairy penguins
 - **Humboldt Penguin**: Found along the Pacific coast of South America
 - **Adelie Penguin**: One of the most common Antarctic penguin species
+- **King Penguin**: The second-largest penguin species with distinctive orange markings
 
 ## Features
 
