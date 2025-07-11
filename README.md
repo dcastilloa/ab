@@ -21,4 +21,6 @@ Feel free to start building something amazing here!
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
+🐧 Penguins are amazing Antarctic birds that waddle with style and swim with grace!
+
 *Happy coding!* ✨
