@@ -17,6 +17,10 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+## Fun Fact
+
+Did you know that penguins can dive up to 500 meters deep and hold their breath for over 20 minutes? 🐧
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
