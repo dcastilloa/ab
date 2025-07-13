@@ -10,6 +10,10 @@ A versatile project workspace designed for rapid development and experimentation
 
 Feel free to start building something amazing here!
 
+## Fun Fact
+
+Did you know that penguins are flightless birds found primarily in the Southern Hemisphere? 🐧
+
 ## Features
 
 - 🔧 Ready-to-use development environment
