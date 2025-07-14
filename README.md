@@ -8,8 +8,6 @@ A versatile project workspace designed for rapid development and experimentation
 
 ## Getting Started
 
-Feel free to start building something amazing here!
-
 ## Features
 
 - 🔧 Ready-to-use development environment
