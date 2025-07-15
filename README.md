@@ -6,6 +6,8 @@ Welcome to the ab project! 🚀
 
 A versatile project workspace designed for rapid development and experimentation. Built with flexibility and simplicity in mind.
 
+🐧 Fun fact: Penguins are excellent swimmers and can dive up to 500 meters deep!
+
 ## Getting Started
 
 Feel free to start building something amazing here!
