@@ -17,6 +17,8 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 
+🐧 Fun fact: Penguins can swim up to 22 mph, making them incredibly efficient underwater!
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
