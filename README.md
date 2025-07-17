@@ -19,6 +19,8 @@ Feel free to start building something amazing here!
 
 ---
 
+🐧 Fun fact: Penguins are amazing swimmers and can dive up to 500 meters deep!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
