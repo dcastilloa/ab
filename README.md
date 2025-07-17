@@ -16,6 +16,7 @@ Feel free to start building something amazing here!
 - 📁 Clean project structure
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
+- 🐧 Penguins are amazing flightless birds that live in the Southern Hemisphere
 
 ---
 
