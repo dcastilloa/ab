@@ -18,6 +18,12 @@ Feel free to start building something amazing here!
 - 📚 Well-documented and maintainable code
 - 🐧 Inspired by the resilience and teamwork of penguins
 
+## Penguin Facts 🐧
+
+- **Emperor Penguins** can dive up to 564 meters deep and hold their breath for over 20 minutes
+- Penguins are excellent examples of **collaboration** - they huddle together to stay warm in extreme cold
+- Like our development team, penguins work together to achieve common goals and support each other
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
