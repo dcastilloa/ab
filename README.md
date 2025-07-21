@@ -23,6 +23,7 @@ Feel free to start building something amazing here!
 - **Emperor Penguins** can dive up to 564 meters deep and hold their breath for over 20 minutes
 - Penguins are excellent examples of **collaboration** - they huddle together to stay warm in extreme cold
 - Like our development team, penguins work together to achieve common goals and support each other
+- **Adelie Penguins** are known for their problem-solving skills and adaptability - perfect qualities for any development project
 
 ---
 
