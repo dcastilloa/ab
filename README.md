@@ -16,7 +16,7 @@ Feel free to start building something amazing here!
 - 📁 Clean project structure
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
-- a
+- 🐧 Emperor penguins can dive up to 547 meters deep and hold their breath for over 20 minutes
 
 ---
 
