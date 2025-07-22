@@ -17,7 +17,7 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 - 🦁 Lions are known as the king of the jungle
-- 🐘 Elephants have excellent memory and can remember events for decades
+- 🐅 Tigers are powerful solitary hunters with distinctive orange and black stripes
 - 🐧 Penguins are expert swimmers who can dive over 500 meters deep
 - 🐬 Dolphins are highly intelligent marine mammals with complex social behaviors
 - 🦅 Eagles have incredible eyesight that is 4-8 times stronger than humans
