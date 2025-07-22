@@ -16,7 +16,7 @@ Feel free to start building something amazing here!
 - 📁 Clean project structure
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
-- 🐘 Elephant: Strong and reliable architecture like an elephant's memory
+- 🦁 Lion: Strong and reliable architecture with leadership qualities
 - 🦅 Eagle: Soars high with performance optimization like an eagle in flight
 - 🐧 Penguin: Cool and collected error handling like a penguin on ice
 - 🦋 Butterfly: Elegant transformations like a butterfly's metamorphosis
