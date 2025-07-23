@@ -21,6 +21,8 @@ Feel free to start building something amazing here!
 
 🐧 Did you know? Penguins are incredible swimmers and can reach speeds of up to 22 mph underwater!
 
+🐧 Emperor penguins can hold their breath for up to 20 minutes and dive as deep as 1,800 feet!
+
 ---
 
 **Last Updated:** December 2024 📅 _(Recently updated!)_
