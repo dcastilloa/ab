@@ -1,0 +1,64 @@
+# Example: Custom Instructions for TypeScript/React Project
+
+name: Claude Code Review
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  claude-review:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+      issues: read
+      id-token: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Run Claude Code Review
+        uses: anthropics/claude-code-action@beta
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          
+          # Custom instructions for a TypeScript/React project
+          custom_instructions: |
+            You are reviewing code for a TypeScript React application. Please focus on:
+            
+            **Code Quality:**
+            - Follow our TypeScript strict mode requirements
+            - Ensure proper type definitions and interfaces
+            - Check for any/unknown usage and suggest specific types
+            
+            **React Best Practices:**
+            - Use functional components with hooks
+            - Properly handle useEffect dependencies
+            - Optimize re-renders with useMemo/useCallback when needed
+            - Follow our component naming convention (PascalCase)
+            
+            **Testing Requirements:**
+            - Every new component should have unit tests
+            - API calls should be mocked in tests
+            - Use React Testing Library patterns
+            
+            **Security & Performance:**
+            - Validate all user inputs
+            - Check for potential XSS vulnerabilities
+            - Ensure proper error handling
+            - Look for performance bottlenecks
+            
+            **Project Standards:**
+            - Use our custom hooks from src/hooks/
+            - Follow the established folder structure
+            - Ensure accessibility (a11y) compliance
+            - Add JSDoc comments for complex functions
+          
+          direct_prompt: |
+            Please review this pull request focusing on our TypeScript React standards.
+            Pay special attention to type safety, component architecture, and testing coverage.
+            Be constructive and provide specific examples for improvements.
