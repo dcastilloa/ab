@@ -6,6 +6,12 @@ Welcome to the ab project! 🚀
 
 A versatile project workspace designed for rapid development and experimentation. Built with flexibility and simplicity in mind.
 
+## Claude Integration
+
+This project now includes Claude-powered GitHub Actions workflows:
+- **Code Review**: Automatic PR reviews with Claude
+- **Interactive Assistant**: Respond to @claude mentions in issues and PRs
+
 ## Getting Started
 
 Feel free to start building something amazing here!
