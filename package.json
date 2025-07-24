@@ -1,0 +1,22 @@
+{
+  "name": "ab",
+  "version": "1.0.0",
+  "description": "Welcome to the ab project! 🚀",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "node tests/utils.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcastilloa/ab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcastilloa/ab/issues"
+  },
+  "homepage": "https://github.com/dcastilloa/ab#readme"
+}
