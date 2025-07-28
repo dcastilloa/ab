@@ -17,6 +17,7 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 - 🐧 Penguin-friendly development environment
+- 🐧 Antarctic-approved coding experience
 
 ---
 
