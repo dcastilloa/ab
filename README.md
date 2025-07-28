@@ -18,6 +18,7 @@ Feel free to start building something amazing here!
 - 📚 Well-documented and maintainable code
 - 🐧 Penguin-friendly development environment
 - 🐧 Antarctic-approved coding experience
+- 🐧 Iceberg-optimized development workflow
 
 ---
 
