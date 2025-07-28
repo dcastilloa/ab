@@ -20,6 +20,7 @@ Feel free to start building something amazing here!
 - 🐧 Antarctic-approved coding experience
 - 🐧 Iceberg-optimized development workflow
 - 🐧 Emperor penguin-grade reliability
+- 🐧 Waddle-driven development methodology
 
 ---
 
