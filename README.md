@@ -83,6 +83,26 @@ Feel free to start building something amazing here!
 
 🦇 **Fun Fact:** Bats are the only mammals capable of true flight and use echolocation so precise they can detect wires as thin as human hair!
 
+🦏 **Fun Fact:** Rhino horns are made of keratin (like human hair) and they can charge at speeds up to 35 mph despite weighing 5,000 pounds!
+
+🐙 **Fun Fact:** Octopuses can change not only their color but also their skin texture to perfectly mimic rocks, coral, and other sea creatures!
+
+🐦 **Fun Fact:** A hummingbird's heart beats up to 1,260 times per minute and makes up 2.5% of their total body weight!
+
+🐋 **Fun Fact:** A blue whale's heart is as large as a small car and weighs about 400 pounds - you could crawl through its arteries!
+
+🐜 **Fun Fact:** Ants can lift 50 times their own body weight and some colonies contain over 50 million individuals working together!
+
+🦚 **Fun Fact:** Male peacocks have up to 200 eye-spots on their tail feathers and can spread them into a fan 6 feet wide to attract mates!
+
+🐊 **Fun Fact:** Crocodiles have remained virtually unchanged for 200 million years and can hold their breath underwater for up to an hour!
+
+🪼 **Fun Fact:** The immortal jellyfish can reverse its aging process and theoretically live forever by transforming back into a juvenile state!
+
+🐎 **Fun Fact:** Horses can sleep both lying down and standing up, and they only need 2-3 hours of deep sleep per day!
+
+🪶 **Fun Fact:** Woodpeckers have special shock-absorbing tissue between their bill and skull to prevent brain damage from constant pecking!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
