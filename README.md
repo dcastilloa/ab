@@ -26,6 +26,7 @@ Feel free to start building something amazing here!
 - 🦎 Chameleon-adaptive theming and customization
 - 🐠 Fish-smooth data streaming capabilities
 - 🦁 Lion-hearted security and authentication
+- 🐺 Wolf-pack collaborative development tools
 
 ---
 
