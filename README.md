@@ -63,6 +63,26 @@ Feel free to start building something amazing here!
 
 🦫 **Fun Fact:** Platypuses are one of only two mammals that lay eggs and have electroreception to hunt underwater!
 
+🦁 **Fun Fact:** A lion's roar can be heard up to 5 miles away and they live in prides led by related females!
+
+🐼 **Fun Fact:** Giant pandas spend 14 hours a day eating bamboo and need to consume 40 pounds daily to survive!
+
+🦅 **Fun Fact:** Eagles have vision 8 times sharper than humans and can spot prey from over 2 miles away!
+
+🐸 **Fun Fact:** Frogs can breathe through their skin and some species can freeze solid in winter and thaw out alive in spring!
+
+🐢 **Fun Fact:** Sea turtles can live over 100 years and navigate thousands of miles using Earth's magnetic field!
+
+🐺 **Fun Fact:** Wolves have an incredible sense of smell 100 times stronger than humans and live in complex social packs!
+
+🐨 **Fun Fact:** Koalas sleep 18-22 hours per day and only eat eucalyptus leaves, which are toxic to most animals!
+
+🐧 **Fun Fact:** Emperor penguins can dive 1,800 feet deep and survive Antarctic temperatures of -40°F while incubating eggs!
+
+🕷️ **Fun Fact:** Spider silk is stronger than steel by weight and some webs can catch birds and small bats!
+
+🦇 **Fun Fact:** Bats are the only mammals capable of true flight and use echolocation so precise they can detect wires as thin as human hair!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
