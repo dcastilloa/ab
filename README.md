@@ -27,6 +27,7 @@ Feel free to start building something amazing here!
 - 🐠 Fish-smooth data streaming capabilities
 - 🦁 Lion-hearted security and authentication
 - 🐺 Wolf-pack collaborative development tools
+- 🐢 Turtle-steady reliable deployment pipelines
 
 ---
 
