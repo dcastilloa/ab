@@ -19,6 +19,8 @@ Feel free to start building something amazing here!
 
 ---
 
+🐧 **Fun Fact:** Penguins are excellent swimmers and can hold their breath for up to 20 minutes underwater!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
