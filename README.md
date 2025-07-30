@@ -29,6 +29,7 @@ Feel free to start building something amazing here!
 - 🐺 Wolf-pack collaborative development tools
 - 🐢 Turtle-steady reliable deployment pipelines
 - 🐬 Dolphin-smart intelligent code navigation
+- 🦘 Kangaroo-bounce elastic scaling capabilities
 
 ---
 
