@@ -43,6 +43,26 @@ Feel free to start building something amazing here!
 
 🦉 **Fun Fact:** Owls have silent flight thanks to special feathers and can rotate their heads 270 degrees!
 
+🐅 **Fun Fact:** Tigers have unique stripe patterns like fingerprints - no two tigers have the same stripes!
+
+🦒 **Fun Fact:** Giraffes have the highest blood pressure of any animal to pump blood up their 6-foot-long necks!
+
+🐴 **Fun Fact:** Seahorses are the only species where males get pregnant and give birth to their young!
+
+🦥 **Fun Fact:** Sloths move so slowly that algae grows on their fur, providing natural camouflage!
+
+🦩 **Fun Fact:** Flamingos get their pink color from eating shrimp and algae rich in carotenoids!
+
+🦈 **Fun Fact:** Sharks have existed for over 400 million years, making them older than trees and dinosaurs!
+
+🦋 **Fun Fact:** Monarch butterflies migrate up to 3,000 miles from Canada to Mexico using magnetic fields for navigation!
+
+🐻‍❄️ **Fun Fact:** Polar bears can swim continuously for days and cover distances over 400 miles in open water!
+
+🦎 **Fun Fact:** Chameleons change color not just for camouflage, but also to communicate emotions and regulate body temperature!
+
+🦫 **Fun Fact:** Platypuses are one of only two mammals that lay eggs and have electroreception to hunt underwater!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
