@@ -123,6 +123,26 @@ Feel free to start building something amazing here!
 
 🪲 **Fun Fact:** Fireflies produce light through a chemical reaction that is 96% efficient - LED lights are only 20% efficient!
 
+🫎 **Fun Fact:** Moose can grow antlers up to 6 feet wide weighing 40 pounds and are surprisingly excellent swimmers who can dive 20 feet deep!
+
+🐧 **Fun Fact:** Rockhopper penguins can jump up to 9 feet high from rock to rock and have distinctive yellow feather crests!
+
+🦎 **Fun Fact:** Axolotls can regenerate entire limbs, organs, and even parts of their brain and spinal cord perfectly!
+
+🦜 **Fun Fact:** Toucan beaks are incredibly lightweight despite their size and help regulate body temperature like a built-in air conditioner!
+
+🦄 **Fun Fact:** Narwhal tusks are actually teeth that can grow up to 10 feet long and contain 10 million nerve endings for sensing water pressure!
+
+🦫 **Fun Fact:** Capybaras are the world's largest rodents and are so chill that other animals often sit on them like living furniture!
+
+🦡 **Fun Fact:** Meerkats have designated sentries who stand guard and use over 30 different alarm calls to warn of specific dangers!
+
+🦔 **Fun Fact:** Pangolins are covered in keratin scales like armor and have tongues longer than their entire body to catch ants!
+
+😊 **Fun Fact:** Quokkas always look like they're smiling due to their facial structure and are known as the "world's happiest animal"!
+
+🔬 **Fun Fact:** Tardigrades are microscopic "water bears" that can survive in space, extreme temperatures, and radiation for decades!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
