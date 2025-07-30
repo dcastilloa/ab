@@ -103,6 +103,26 @@ Feel free to start building something amazing here!
 
 🪶 **Fun Fact:** Woodpeckers have special shock-absorbing tissue between their bill and skull to prevent brain damage from constant pecking!
 
+🦍 **Fun Fact:** Gorillas are 10 times stronger than humans and can learn sign language with vocabularies of over 1,000 words!
+
+🐍 **Fun Fact:** Snakes can detect heat from warm-blooded prey using special heat-sensing pits and can unhinge their jaws to swallow prey larger than their head!
+
+🦫 **Fun Fact:** Beavers are nature's engineers who can build dams up to 2,000 feet long and their teeth never stop growing!
+
+🐧 **Fun Fact:** Adelie penguins propose to their mates by offering them the perfect pebble as a gift!
+
+🦞 **Fun Fact:** Lobsters must molt their entire shell to grow and can regenerate lost claws, legs, and even eyes!
+
+🦆 **Fun Fact:** Great blue herons can stand motionless for hours waiting for fish and can strike with lightning speed in just 1/10th of a second!
+
+🐿️ **Fun Fact:** Squirrels can remember the locations of thousands of buried nuts and have been observed pretending to bury nuts to throw off potential thieves!
+
+🦗 **Fun Fact:** Praying mantises can rotate their heads 180 degrees and are the only insects that can look over their shoulders!
+
+🦭 **Fun Fact:** Seals can dive up to 7,000 feet deep and hold their breath for up to 2 hours by slowing their heart rate to just 4 beats per minute!
+
+🪲 **Fun Fact:** Fireflies produce light through a chemical reaction that is 96% efficient - LED lights are only 20% efficient!
+
 **Last Updated:** December 2024 📅 _(Recently updated!)_
 
 *Happy coding!* ✨
