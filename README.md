@@ -28,6 +28,7 @@ Feel free to start building something amazing here!
 - 🦁 Lion-hearted security and authentication
 - 🐺 Wolf-pack collaborative development tools
 - 🐢 Turtle-steady reliable deployment pipelines
+- 🐬 Dolphin-smart intelligent code navigation
 
 ---
 
