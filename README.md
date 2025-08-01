@@ -17,6 +17,7 @@ Feel free to start building something amazing here!
 - 🚀 Quick setup and deployment ready
 - 📚 Well-documented and maintainable code
 - 🐧 Penguins are amazing Antarctic birds that can't fly but are excellent swimmers
+- 🐧 Emperor penguins can dive up to 500 meters deep and hold their breath for 20 minutes
 - 
 
 ---
